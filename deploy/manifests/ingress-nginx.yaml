@@ -16,3 +16,4 @@ spec:
             name: react-application
             port:
               number: 8080
+              
